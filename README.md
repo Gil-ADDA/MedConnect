@@ -6,6 +6,8 @@ Group project pitch - (there will be several unassessed but required crits throu
 Group Presentation Present the project to the rest of the class - 40% 
 Group GitHub + Report - 2000 words (+/- 10%) - 60% 
 Individual personal reflection - 500 words (+/- 10%) (unassessed but required)
+
+
 <b>Key Dates for 2022/2023</b>
 Final Presentations – **Monday 20th March**
 
