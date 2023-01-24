@@ -1,6 +1,6 @@
 # MedConnect
 
-<sub> Stages of Assessment </sup> 
+**Stages of Assessment**
 Group project pitch - (there will be several unassessed but required crits through the module).
 Group Presentation Present the project to the rest of the class - 40% 
 Group GitHub + Report - 2000 words (+/- 10%) - 60% 
