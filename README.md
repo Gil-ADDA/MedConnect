@@ -7,11 +7,11 @@ Group Presentation Present the project to the rest of the class - 40%
 Group GitHub + Report - 2000 words (+/- 10%) - 60% 
 Individual personal reflection - 500 words (+/- 10%) (unassessed but required)
 <b>Key Dates for 2022/2023</b>
-Final Presentations – **Monday 20th March
+Final Presentations – **Monday 20th March**
 
-Group Report (2000 words) submission via Moodle – **Friday 21th April - 5pm  
+Group Report (2000 words) submission via Moodle – **Friday 21th April - 5pm**
 
-Individual report (500 words) submission via Moodle – **Friday 21th April - 5pm 
+Individual report (500 words) submission via Moodle – **Friday 21th April - 5pm**
 
 
 <b>Group GitHub Repo + Report (2000 words) – 60%</b>
