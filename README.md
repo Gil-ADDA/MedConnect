@@ -1,18 +1,20 @@
 # MedConnect
 
-**Stages of Assessment**
+<b>Stages of Assessment</b>
+
 Group project pitch - (there will be several unassessed but required crits through the module).
 Group Presentation Present the project to the rest of the class - 40% 
 Group GitHub + Report - 2000 words (+/- 10%) - 60% 
 Individual personal reflection - 500 words (+/- 10%) (unassessed but required)
-# Key Dates for 2022/2023
-Final Presentations – Monday 20th March
+<b>Key Dates for 2022/2023</b>
+Final Presentations – **Monday 20th March
 
-Group Report (2000 words) submission via Moodle – Friday 21th April - 5pm  
+Group Report (2000 words) submission via Moodle – **Friday 21th April - 5pm  
 
-Individual report (500 words) submission via Moodle – Friday 21th April - 5pm 
+Individual report (500 words) submission via Moodle – **Friday 21th April - 5pm 
 
-# Group GitHub Repo + Report (2000 words) – 60% 
+
+<b>Group GitHub Repo + Report (2000 words) – 60%</b>
 The github and report will be assessed by the following criteria:
 
 The problem identified and the motivation for the product or service - 15%
