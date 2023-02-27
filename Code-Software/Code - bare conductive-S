@@ -1,0 +1,34 @@
+void setup() {
+  Serial.begin(9600);
+}
+
+void loop() {
+  int sensorValue1 = analogRead(A0);
+  float voltage1 = sensorValue1 * (5.0 / 1024.0);
+  Serial.print("A0: ");
+  Serial.print(voltage1);
+  Serial.print("V\t");
+
+  int sensorValue2 = analogRead(A1);
+  float voltage2 = sensorValue2 * (5.0 / 1024.0);
+  Serial.print("Analog Input A1: ");
+  Serial.print(voltage2);
+  Serial.println("V");
+
+  int sensorValue3 = analogRead(A2);
+  float voltage3 = sensorValue3 * (5.0 / 1024.0);
+  Serial.print("A2: ");
+  Serial.print(voltage3);
+  Serial.println("V");
+
+  Serial.println("Reading complete");
+
+  delay(1000);
+}
+//In this code, the second analog input pin (A1) is added and the voltage value is read and printed to the serial monitor 
+//using the same method as for A0. The Serial.print() function is used to format and print the voltage values to the serial monitor, and a tab character ("\t") is used to separate the two values.
+The Serial.println() function is used to print a new line character after both values are printed.
+
+
+
+
