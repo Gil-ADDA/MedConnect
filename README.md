@@ -24,6 +24,10 @@ Documentation of the prototyping / design iterations - 20%
 The 'quality' of the product or service built - 15%
 The critical reflection on the product or service created - 10%
 
+#Second mid crit 
+we got a feadback that we will need to change the way the pill boxess will be detected by swits insted of the bare conductive casue then it possible to use 7 digital pins instead of using 5 Analog pins and split one Analog pin. 
+As well we have to add communication buttom to nudge the user to take is pills by the relative 
+moreover we dicide to add rail to the small boxes to make sure that the boxes are placed properly 
 
 
 
