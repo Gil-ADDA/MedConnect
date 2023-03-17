@@ -1,0 +1,7 @@
+
+
+
+// #define SECRET_SSID "SSID"
+// #define SECRET_PASS "PASSWORD"
+// #define SECRET_MQTTUSER "MQTTUSER"
+// #define SECRET_MQTTPASS "MQTTPASS"
