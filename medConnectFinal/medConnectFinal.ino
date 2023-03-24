@@ -13,8 +13,8 @@
 
 // Sensors and Buzzer
 // uint8_t DHTPIN = A1;   // for dht on pin analog 4 of the nodemcu
-uint8_t BUZZERPIN = A0;   // for buzzer on pin analog 2 of the nodemcu
-uint8_t BOXPINS[] = {2, 3, 6, 7, 9, 11, 13}; // array of input bins for box circuits
+uint8_t BUZZERPIN = 16;   // for buzzer on pin analog 2 of the nodemcu
+uint8_t BOXPINS[] = {14, 12, 13, 5, 0, 4, 2}; // array of input bins for box circuits
 float Temperature;
 float Humidity;
 //DHT dht(DHTPIN, DHTTYPE);   // Initialize DHT sensor.
@@ -32,6 +32,7 @@ PubSubClient client(espClient);
 long lastMsg = 0;
 char msg[50];
 int value = 0;
+int past = 0;
 
 // Date and time
 Timezone GB;
@@ -39,7 +40,7 @@ Timezone GB;
 void setup() {
   // open serial connection for debug info
   Serial.begin(115200);
-  delay(100);
+  delay(1000);
 
   // start DHT sensor
   //pinMode(DHTPIN, INPUT);
@@ -141,7 +142,7 @@ void sendMQTT() {
   }
   Serial.print("Number of open circuits: ");
   Serial.println(openCount);
-  delay(1000);
+  delay(500);
 
   // put data in json document
   // create json document called docSend
@@ -151,7 +152,7 @@ void sendMQTT() {
   // add humidity object with value of humidity
   // docSend["Humidity"] = Humidity;
   // add open circuit count
-  docSend["Count"] = openCount;
+  docSend["Number"] = openCount;
 
   // using buffer helps to allocate memory quicker
   char buffer[256];
@@ -173,17 +174,19 @@ void callback(char* topic, byte* payload, unsigned int length) {
   StaticJsonDocument<256> docRec;  // Allocate the JSON document
   deserializeJson(docRec, payload, length);// Deserialize the JSON document
   String myString = String((char*)payload);
-  int myValue = docRec["Temperature"];
+  int myValue = docRec["times"];
   //char json[length] = myString;
   Serial.print(myValue);
   Serial.println();
 
-  if (myValue == 1) {
+  if (myValue != past) {
     for (int i = 0; i < 5; i++) {
       Serial.print("buzz ");
-      tone(BUZZERPIN, 441);
-      delay(500);
+      tone(BUZZERPIN, 600);
+      delay(2000);
+      noTone(BUZZERPIN);
     }
+  past = myValue;
   }
 }
 
@@ -205,7 +208,7 @@ void reconnect() {
       Serial.print(client.state());
       Serial.println(" try again in 5 seconds");
       // Wait 5 seconds before retrying
-      delay(5000);
+      delay(1000);
     }
   }
 }
