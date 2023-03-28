@@ -38,18 +38,20 @@ A brief overview of the project, including the purpose and main features of the 
 # Hardware and software components: (ANDRE PATIENT DEVICE SOFTWARE)
 A list of the hardware and software components used in the project, including microcontroller, sensors, and libraries.
 
-# Installation and setup:
+
+# Installation and setup: GIL
 Instructions on how to set up and configure the device, including any necessary software or firmware updates.
 
 # Design & 3D Models (ANDRE PATIENT MODEL)
 
-# Usage:
+# Usage: GIL
 A guide on how to use the device, including any specific features or functions.
 
 # Troubleshooting:
 Information on how to troubleshoot common issues or errors that may occur while using the device.
+ - Patient device 
 
-# Future work:
+# Future work: GIL
 Possible future improvements or additions to the project.
 
 # Contributors:
