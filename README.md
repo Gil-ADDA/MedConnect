@@ -42,7 +42,7 @@ A list of the hardware and software components used in the project, including mi
 # Installation and setup: GIL
 Instructions on how to set up and configure the device, including any necessary software or firmware updates.
 
-# Design & 3D Models (ANDRE PATIENT MODEL)
+# Design & 3D Models (ANDRE PATIENT MODEL) （lucy relative device）
 
 # Usage: GIL
 A guide on how to use the device, including any specific features or functions.
@@ -54,7 +54,7 @@ Information on how to troubleshoot common issues or errors that may occur while 
 # Future work: GIL
 Possible future improvements or additions to the project.
 
-# Contributors:
+# Contributors: lucy
 A list of the people who have contributed to the project, including their roles and responsibilities.
 
 # License:
