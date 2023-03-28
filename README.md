@@ -32,16 +32,16 @@ moreover we dicide to add rail to the small boxes to make sure that the boxes ar
 
 
 
-# Introduction:
+# Introduction: ANDRE
 A brief overview of the project, including the purpose and main features of the device.
 
-# Hardware and software components:
+# Hardware and software components: (ANDRE PATIENT DEVICE SOFTWARE)
 A list of the hardware and software components used in the project, including microcontroller, sensors, and libraries.
 
 # Installation and setup:
 Instructions on how to set up and configure the device, including any necessary software or firmware updates.
 
-# Design & 3D Models
+# Design & 3D Models (ANDRE PATIENT MODEL)
 
 # Usage:
 A guide on how to use the device, including any specific features or functions.
