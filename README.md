@@ -29,8 +29,11 @@ we got a feadback that we will need to change the way the pill boxess will be de
 As well we have to add communication buttom to nudge the user to take is pills by the relative 
 moreover we dicide to add rail to the small boxes to make sure that the boxes are placed properly 
 
-
-
+# PROTOTYPE:
+Sketches,
+Version one,
+Version two,
+Version three
 
 # Introduction: ANDRE
 A brief overview of the project, including the purpose and main features of the device.
