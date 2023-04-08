@@ -35,8 +35,13 @@ Version one,
 Version two,
 Version three
 
-# Introduction: ANDRE
-A brief overview of the project, including the purpose and main features of the device.
+# Introduction:
+
+The purpose of this project is to design and build a set of devices that solve various compounding problems faced by older generations - those being the consumption of prescribed medication in a timely manner, and also frequent isolation from loved ones.
+
+This project serves different purposes for each user. For the patient and their device, it serves as a central device to organize their medication, as well as a reminder to take their medication. For the relative or carer and their device, it provides the knowledge that your loved one or patient is taking their medication properly, or serves as a means to remind them to do so if they forget. For both groups, it provides comfort and connection, illustrating that your loved ones are there for you even when they're physically absent.
+
+The main features of this project are specific to each device. With their device, the patient has the ability to organize a week's worth of medication into daily boxes and, by the act of taking their medication, notify their relative of carer that they have done this. It also has the ability to recieve notifications from the relative or carer device and use a buzzer to notify the patient if they have not taken their medication. The relative or carer device has the ability to recieve notifications from the patient device once medication has been taken, as well as remind the patient to take their medication through the push of a button.
 
 # Hardware and software components: (ANDRE PATIENT DEVICE SOFTWARE)
 A list of the hardware and software components used in the project, including microcontroller, sensors, and libraries.
