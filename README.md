@@ -41,16 +41,38 @@ The purpose of this project is to design and build a set of devices that solve v
 
 This project serves different purposes for each user. For the patient and their device, it serves as a central device to organize their medication, as well as a reminder to take their medication. For the relative or carer and their device, it provides the knowledge that your loved one or patient is taking their medication properly, or serves as a means to remind them to do so if they forget. For both groups, it provides comfort and connection, illustrating that your loved ones are there for you even when they're physically absent.
 
-The main features of this project are specific to each device. With their device, the patient has the ability to organize a week's worth of medication into daily boxes and, by the act of taking their medication, notify their relative of carer that they have done this. It also has the ability to recieve notifications from the relative or carer device and use a buzzer to notify the patient if they have not taken their medication. The relative or carer device has the ability to recieve notifications from the patient device once medication has been taken, as well as remind the patient to take their medication through the push of a button.
+The main features of this project are specific to each device. With their device, the patient has the ability to organize a week's worth of medication into daily boxes and, by the act of taking their medication, notify their relative of carer that they have done this. It also has the ability to receive notifications from the relative or carer device and use a buzzer to notify the patient if they have not taken their medication. The relative or carer device has the ability to recieve notifications from the patient device once medication has been taken, as well as remind the patient to take their medication through the push of a button.
 
-# Hardware and software components: (ANDRE PATIENT DEVICE SOFTWARE)
+# Hardware and software components: (Gao, Lucy, Gil - please check the components are correct)
 A list of the hardware and software components used in the project, including microcontroller, sensors, and libraries.
+Patient Device
+- Adafruit Feather Huzzah ESP8266
+- Piezo Buzzer 
+- Copper wire
+- Copper foil
+- Magnets
+- USB power cord
+- PLA filament
+- Acrylic sheet
+
+Relative or Carer Device
+- Adafruit Feather Huzzah ESP8266
+- PLA filament
+- LCD screen
+- Servo motor
+- USB power cord
+- Copper wire
 
 
 # Installation and setup: GIL
 Instructions on how to set up and configure the device, including any necessary software or firmware updates.
 
-# Design & 3D Models (ANDRE PATIENT MODEL) （lucy relative device）
+# Design & 3D Models (ANDRE PATIENT MODEL) （lucy relative device
+Patient Device
+- insert photos
+
+Relative or Carer Device
+- insert photos
 
 # Usage: GIL
 A guide on how to use the device, including any specific features or functions.
@@ -64,12 +86,17 @@ Possible future improvements or additions to the project.
 
 # Contributors: lucy
 A list of the people who have contributed to the project, including their roles and responsibilities.
+- André Bourgeois: Responsible for designing the 3D model for the Pill Ordganizer and writing the code for pushing data to MQTT in JSON format.
 
 # License:
 Information on the licensing of the project, including any open-source licenses used.
 
 # References:
 A list of any sources or references used in the project.(harvard refernces)
+
+Medication reminder GlowCap goes direct-to-consumer (2009). Available at: https://www.mobihealthnews.com/3888/medication-reminder-glowcap-goes-direct-to-consumer.
+EllieGrid (no date) The Smart Pill Organizer with Brains & Beauty. Available at: https://elliegrid.com/.
+Sagely (2018b) Daily Pill Organizers and Pill Reminder App | Sagely. Available at: https://www.livesagely.com/.
 
 # Acknowledgements : 
 Any other important notes or acknowledgements that the user should be aware of.
