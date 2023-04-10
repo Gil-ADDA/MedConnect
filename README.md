@@ -34,6 +34,7 @@ Sketches,
 Version one,
 Version two,
 Version three
+insert photos
 
 # Introduction:
 
@@ -83,6 +84,7 @@ Information on how to troubleshoot common issues or errors that may occur while 
 
 # Future work: GIL
 Possible future improvements or additions to the project.
+Reference this from report.
 
 # Contributors: lucy
 A list of the people who have contributed to the project, including their roles and responsibilities.
