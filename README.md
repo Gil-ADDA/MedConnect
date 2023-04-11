@@ -63,7 +63,7 @@ Relative or Carer Device
 - Servo motor
 - USB power cord
 - Copper wire
-
+- Wooden materials
 
 # Installation and setup: GIL
 Instructions on how to set up and configure the device, including any necessary software or firmware updates.
