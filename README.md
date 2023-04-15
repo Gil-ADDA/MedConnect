@@ -82,7 +82,7 @@ A guide on how to use the device, including any specific features or functions.
 # Troubleshooting: ANDRE PATIENT DEVICE & GAO RELATIVE DEVICE
 Information on how to troubleshoot common issues or errors that may occur while using the device.
  Patient device 
- - x
+ - One issue someone may face with with the pill organizer is the detection of an open circuit even when a daily box has been placed back into it's slot. This is is due to insufficient contact between the box and the main body of the device. To remedy this, simple adjust the box so it sits flush against its base and give it a slight push down into its correct position.
  
  Relative Device
  - x
@@ -99,11 +99,8 @@ A list of the people who have contributed to the project, including their roles 
 This project is licensed under the MIT License.
 
 # References: GAO, LUCY, GIL, ADD ANY REFERENCES
-A list of any sources or references used in the project.(harvard refernces)
+A list of any sources or references used in the project.(harvard referneces)
 
 Medication reminder GlowCap goes direct-to-consumer (2009). Available at: https://www.mobihealthnews.com/3888/medication-reminder-glowcap-goes-direct-to-consumer.
 EllieGrid (no date) The Smart Pill Organizer with Brains & Beauty. Available at: https://elliegrid.com/.
 Sagely (2018b) Daily Pill Organizers and Pill Reminder App | Sagely. Available at: https://www.livesagely.com/.
-
-# Acknowledgements: ANDRE
-Any other important notes or acknowledgements that the user should be aware of.
