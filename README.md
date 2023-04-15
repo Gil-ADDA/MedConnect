@@ -96,7 +96,7 @@ A list of the people who have contributed to the project, including their roles 
 - André Bourgeois: Responsible for designing the 3D model for the Pill Ordganizer and writing the code for pushing data to MQTT in JSON format.
 
 # License: ANDRE
-Information on the licensing of the project, including any open-source licenses used.
+This project is licensed under the MIT License.
 
 # References: GAO, LUCY, GIL, ADD ANY REFERENCES
 A list of any sources or references used in the project.(harvard refernces)
