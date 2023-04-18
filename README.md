@@ -132,7 +132,9 @@ This project is licensed under the MIT License.
 A list of any sources or references used in the project.(harvard referneces)
 
 Medication reminder GlowCap goes direct-to-consumer (2009). Available at: https://www.mobihealthnews.com/3888/medication-reminder-glowcap-goes-direct-to-consumer.
+
 EllieGrid (no date) The Smart Pill Organizer with Brains & Beauty. Available at: https://elliegrid.com/.
+
 Sagely (2018b) Daily Pill Organizers and Pill Reminder App | Sagely. Available at: https://www.livesagely.com/.
 
 Abdul Minaam, D.S. and Abd-ELfattah, M. (2018). Smart drugs:Improving healthcare using Smart Pill Box for Medicine Reminder and Monitoring System. Future Computing and Informatics Journal, 3(2), pp.443–456. doi:10.1016/j.fcij.2018.11.008.
