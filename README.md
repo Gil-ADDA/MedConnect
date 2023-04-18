@@ -79,7 +79,7 @@ Relative or Carer Device
 # Usage: GIL PILL ORGANIZER & GAO RELATIVE DEVICE
 A guide on how to use the device, including any specific features or functions.
  
-#Getting Started
+# Getting Started
 To use the Medconnect pill organizer, follow these steps:
 
 Plug in the smart medicine box to a power source using the provided cable.
@@ -88,10 +88,10 @@ The smart medicine box will keep track of the medication schedule and send notif
 Receiving Notifications and Sending Reminders
 The Medconnect pill organizer is designed to send notifications to the relative device whenever the senior user takes their pills or if they miss their medication. If the senior user misses their medication, the relative device can send a notification to remind them to take their pills. Additionally, the relative device can send a notification to the smart medicine box by pressing a button on the device, activating the buzzer on the smart medicine box to remind the senior user to take their pills.
 
-#The 3D Doctor Model
+# The 3D Doctor Model
 The 3D doctor model on the relative device is designed to provide emotional engagement and accountability for the senior user's medication adherence. By default, the doctor has a sad face, but when the senior user takes their pills, the doctor's face turns to a happy expression. Every midnight, the doctor's face returns to the default sad face.
 
-#Specific Features and Functions
+# Specific Features and Functions
 The Medconnect pill organizer has several specific features and functions that you may find useful:
 
 Medication Schedule: The smart medicine box is divided into different compartments for each day of the week, but there are no specific times for taking the medication.
