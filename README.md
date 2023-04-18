@@ -76,7 +76,7 @@ Patient Device
 Relative or Carer Device 
 - insert photos
 
-## Usage: GIL PILL ORGANIZER & GAO RELATIVE DEVICE
+# Usage: PILL ORGANIZER & RELATIVE DEVICE
 A guide on how to use the device, including any specific features or functions.
  
 ## Getting Started
