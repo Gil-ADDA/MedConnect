@@ -35,6 +35,7 @@ Version one,
 Version two,
 Version three
 insert photos
+![Relative device](https://github.com/Gil-ADDA/MedConnect/blob/main/images/Relative%20device.jpeg)
 
 # Introduction: ANDRE
 
