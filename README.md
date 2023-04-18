@@ -125,6 +125,13 @@ In the future work, our team would like to add a temperature and humidity sensor
 A list of the people who have contributed to the project, including their roles and responsibilities.
 - André Bourgeois: Responsible for designing the 3D model for the Pill Ordganizer and writing the code for pushing data to MQTT in JSON format.
 
+| Product/Responsibility | Members             | Activities                                                 |
+|------------------------|---------------------|------------------------------------------------------------|
+| Pill organiser          | Gil Adda, André Bourgeois | Prototyping, writing the code for MQTT, buzzer, 7 input pins, design the pill organiser 3D model (fusion), 3D printing (Prusa and Ultimaker), design the circuit and soldering |
+| Relative device         | Shiqu Gao, Qishu Qian   | Writing the code, design 3D model (fusion), 3D printing (Prusa and Ultimaker), laser cutting (fusion), design the circuit and soldering |
+
+
+
 # License: ANDRE
 This project is licensed under the MIT License.
 
