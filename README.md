@@ -89,7 +89,7 @@ Receiving Notifications and Sending Reminders
 The Medconnect pill organizer is designed to send notifications to the relative device whenever the senior user takes their pills or if they miss their medication. If the senior user misses their medication, the relative device can send a notification to remind them to take their pills. Additionally, the relative device can send a notification to the smart medicine box by pressing a button on the device, activating the buzzer on the smart medicine box to remind the senior user to take their pills.
 
 ## The 3D Doctor Model
-The 3D doctor model on the relative device is designed to provide emotional engagement and accountability for the senior user's medication adherence. By default, the doctor has a sad face, but when the senior user takes their pills, the doctor's face turns to a happy expression. Every midnight, the doctor's face returns to the default sad face.
+The 3D doctor model on the relative device is designed to provide emotional engagement and accountability for the senior user's medication adherence. By default, the doctor has a sad face, but when the senior user takes their pills, the doctor's face turns to a happy expression.There is an lcd screen that can be used to show how much unused medicine is left in the box. Every midnight, the doctor's face returns to the default sad face.
 
 ## Specific Features and Functions
 The Medconnect pill organizer has several specific features and functions that you may find useful:
