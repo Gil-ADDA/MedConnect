@@ -85,7 +85,7 @@ Information on how to troubleshoot common issues or errors that may occur while 
  - One issue someone may face with with the pill organizer is the detection of an open circuit even when a daily box has been placed back into it's slot. This is is due to insufficient contact between the box and the main body of the device. To remedy this, simple adjust the box so it sits flush against its base and give it a slight push down into its correct position.
  
  Relative Device
- - x
+ - The problem someone may face is that after pressing a button, that device does not capture the moment of the button press, so it may result in no feedback from the corresponding device even though the user pressed the button. To solve this problem, try pressing the button a few more times to be able to ensure that the message is definitely received.
 
 # Future work: GIL PILL ORGANIZER & GAO RELATIVE DEVICE
 Possible future improvements or additions to the project.
