@@ -133,3 +133,12 @@ A list of any sources or references used in the project.(harvard referneces)
 Medication reminder GlowCap goes direct-to-consumer (2009). Available at: https://www.mobihealthnews.com/3888/medication-reminder-glowcap-goes-direct-to-consumer.
 EllieGrid (no date) The Smart Pill Organizer with Brains & Beauty. Available at: https://elliegrid.com/.
 Sagely (2018b) Daily Pill Organizers and Pill Reminder App | Sagely. Available at: https://www.livesagely.com/.
+
+Abdul Minaam, D.S. and Abd-ELfattah, M. (2018). Smart drugs:Improving healthcare using Smart Pill Box for Medicine Reminder and Monitoring System. Future Computing and Informatics Journal, 3(2), pp.443–456. doi:10.1016/j.fcij.2018.11.008.
+
+Good Night Lamp, Source: https://www.designswarm.com/good-night-lamp/ (Retrieved on 23/01/2023)
+
+Rosli, E. and Husaini, Y. (2018). Design and Development of Smart Medicine Box. IOP Conference Series: Materials Science and Engineering, 341, p.012004. doi:10.1088/1757-899x/341/1/012004.
+
+Ughade, S.M. (2021). Low Powered IOT Enable Smart Medicine Pill Box Using ESP 8266. International Journal for Research in Applied Science and Engineering Technology, 9(VII), pp.3804–3808. doi:10.22214/ijraset.2021.36930.
+
