@@ -88,8 +88,14 @@ Information on how to troubleshoot common issues or errors that may occur while 
  - The problem someone may face is that after pressing a button, that device does not capture the moment of the button press, so it may result in no feedback from the corresponding device even though the user pressed the button. To solve this problem, try pressing the button a few more times to be able to ensure that the message is definitely received.
 
 # Future work: GIL PILL ORGANIZER & GAO RELATIVE DEVICE
-Possible future improvements or additions to the project.
-Reference this from report.
+Relative device 
+In the future, the use of messaging could be used to enable more to be passed between the two devices than just the alert. More contents could also be added to the LCD display.
+
+Currently, most parts of the family's device are made up of 3D printed materials due to technical limitations, which also leads to high manufacturing costs and the inability to recycle. In the future, recyclable materials could be used instead of 3D printed materials, which would reduce costs and be environmentally friendly at the same time.
+
+Pill organiser 
+In the future work, our team would like to add a temperature and humidity sensor to the pill organiser. This addition will help to ensure that the patient is keeping their medication in an ideal environment to maintain its effectiveness. Temperature and humidity information will be displayed on an attached LCD screen for convenient viewing. Our team would also like to include more inclusive means of reminding patients to take their medicine, including a flashing light or possibly push notifications to a patient’s smart device.
+
 
 # Contributors: LUCY, GAO, GIL ADD NAMES FOLLOWED BY WHAT YOU WORKED ON
 A list of the people who have contributed to the project, including their roles and responsibilities.
