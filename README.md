@@ -29,6 +29,13 @@ we got a feadback that we will need to change the way the pill boxess will be de
 As well we have to add communication buttom to nudge the user to take is pills by the relative 
 moreover we dicide to add rail to the small boxes to make sure that the boxes are placed properly 
 
+# Introduction: ANDRE
+
+The purpose of this project is to design and build a set of devices that solve various compounding problems faced by older generations - those being the consumption of prescribed medication in a timely manner, and also frequent isolation from loved ones.
+
+This project serves different purposes for each user. For the patient and their device, it serves as a central device to organize their medication, as well as a reminder to take their medication. For the relative or carer and their device, it provides the knowledge that your loved one or patient is taking their medication properly, or serves as a means to remind them to do so if they forget. For both groups, it provides comfort and connection, illustrating that your loved ones are there for you even when they're physically absent.
+
+The main features of this project are specific to each device. With their device, the patient has the ability to organize a week's worth of medication into daily boxes and, by the act of taking their medication, notify their relative of carer that they have done this. It also has the ability to receive notifications from the relative or carer device and use a buzzer to notify the patient if they have not taken their medication. The relative or carer device has the ability to recieve notifications from the patient device once medication has been taken, as well as remind the patient to take their medication through the push of a button.
 # Prototyping MedConnect: A Compact and Efficient Pill Organizer for Seniors:
 ## ANDRE, GIL PILL ORGANIZER & GAO, LUCY RELATIVE DEVICE
 MedConnect was created to provide seniors with an effective solution to manage their medication needs, while also providing peace of mind to their family members. Initially, we implemented bare conductive sensors to detect pressure on pill boxes, but we found that they were not accurate enough. We then tried using a 1kg load cell, but it proved to be difficult to measure milligrams precisely. Eventually, we decided to use copper foil to detect each daily pill box. Our original plan involved sliding pill boxes and displaying medication reminders on an LCD screen.
@@ -65,13 +72,7 @@ During the development of the first printing, we made several iterations to impr
 
 ![Relative device](https://github.com/Gil-ADDA/MedConnect/blob/main/images/Relative%20device.jpeg)
 
-# Introduction: ANDRE
 
-The purpose of this project is to design and build a set of devices that solve various compounding problems faced by older generations - those being the consumption of prescribed medication in a timely manner, and also frequent isolation from loved ones.
-
-This project serves different purposes for each user. For the patient and their device, it serves as a central device to organize their medication, as well as a reminder to take their medication. For the relative or carer and their device, it provides the knowledge that your loved one or patient is taking their medication properly, or serves as a means to remind them to do so if they forget. For both groups, it provides comfort and connection, illustrating that your loved ones are there for you even when they're physically absent.
-
-The main features of this project are specific to each device. With their device, the patient has the ability to organize a week's worth of medication into daily boxes and, by the act of taking their medication, notify their relative of carer that they have done this. It also has the ability to receive notifications from the relative or carer device and use a buzzer to notify the patient if they have not taken their medication. The relative or carer device has the ability to recieve notifications from the patient device once medication has been taken, as well as remind the patient to take their medication through the push of a button.
 
 # Hardware and software components: (GAO, LUCY, GIL - please check the components are correct)
 A list of the hardware and software components used in the project, including microcontroller, sensors, and libraries.
