@@ -39,25 +39,26 @@ During the development of the first printing, we made several iterations to impr
 
 
 ## Sketches: Drawing of the Pill Organizer
-![Drawing of the Pill Organizer](/Prototype to End result/Drawing pill organiser.png)
-## First Prototype - Bare Conductive Sensors
-![First Prototype - Bare Conductive Sensors](/Prototype to End result/First Prototype BARE CONDUCTIVE.png)
+## Drawing of the Pill Organizer
+![Drawing of the Pill Organizer](/Prototype%20to%20End%20result/Drawing%20pill%20organiser.png)
 
+## First Prototype - Bare Conductive Sensors
+![First Prototype - Bare Conductive Sensors](/Prototype%20to%20End%20result/First%20Prototype%20BARE%20CONDUCTIVE.png)
 
 ## Second Prototype - Copper Foil
- 
+![Second Prototype - Copper Foil](/Prototype%20to%20End%20result/First%20Prototype%20Copper%20foil.png)
+
 ## First 3D Printing Prototype
-![First 3D Printing Prototype](Prototype%20to%20End%20result/First%203D%20printing%20prototype.png)
+![First 3D Printing Prototype](/Prototype%20to%20End%20result/First%203D%20printing%20prototype.png)
 
 ## Second 3D Printing Prototype
-! [Second 3D Printing Prototype](/Prototype to End result/Second 3D Printing.png)
+![Second 3D Printing Prototype](/Prototype%20to%20End%20result/Second%203D%20Printing.png)
 
 ## The Platform for the Circuit
-! [The Platform for the Circuit](/Prototype to End result/The Platform for the circuit.png)
+![The Platform for the Circuit](/Prototype%20to%20End%20result/The%20Platform%20for%20the%20circuit.png)
 
 ## End Result - 3D Printed Pill Organizer
-! [End Result - 3D Printed Pill Organizer](/Prototype to End result/End result 3D Printing.png)
-
+![End Result - 3D Printed Pill Organizer](/Prototype%20to%20End%20result/End%20result%203D%20Printing.png)
 
 ![Relative device](https://github.com/Gil-ADDA/MedConnect/blob/main/images/Relative%20device.jpeg)
 
