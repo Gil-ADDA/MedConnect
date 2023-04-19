@@ -57,6 +57,9 @@ During the development of the first printing, we made several iterations to impr
 ## The Platform for the Circuit
 ![The Platform for the Circuit](/Prototype%20to%20End%20result/The%20Platform%20for%20the%20circuit.png)
 
+## PCB Blueprint
+![PCB Blueprint](/MedConnect/Prototype%20to%20End%20result/PCB%20Blueprint.png)
+
 ## End Result - 3D Printed Pill Organizer
 ![End Result - 3D Printed Pill Organizer](/Prototype%20to%20End%20result/End%20result%203D%20Printing.png)
 
