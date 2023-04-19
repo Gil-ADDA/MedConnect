@@ -49,13 +49,13 @@ During the development of the first printing, we made several iterations to impr
 ![First 3D Printing Prototype](/Prototype to End result/First 3D printing prototype.png)
 
 ## Second 3D Printing Prototype
-![Second 3D Printing Prototype](/Prototype to End result/Second 3D Printing.png)
+! [Second 3D Printing Prototype](/Prototype to End result/Second 3D Printing.png)
 
 ## The Platform for the Circuit
-![The Platform for the Circuit](/Prototype to End result/The Platform for the circuit.png)
+! [The Platform for the Circuit](/Prototype to End result/The Platform for the circuit.png)
 
 ## End Result - 3D Printed Pill Organizer
-![End Result - 3D Printed Pill Organizer](/Prototype to End result/End result 3D Printing.png)
+! [End Result - 3D Printed Pill Organizer](/Prototype to End result/End result 3D Printing.png)
 
 
 ![Relative device](https://github.com/Gil-ADDA/MedConnect/blob/main/images/Relative%20device.jpeg)
