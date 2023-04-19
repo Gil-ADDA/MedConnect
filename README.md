@@ -29,12 +29,35 @@ we got a feadback that we will need to change the way the pill boxess will be de
 As well we have to add communication buttom to nudge the user to take is pills by the relative 
 moreover we dicide to add rail to the small boxes to make sure that the boxes are placed properly 
 
-# PROTOTYPE: ANDRE, GIL PILL ORGANIZER & GAO, LUCY RELATIVE DEVICE
-Sketches,
-Version one,
-Version two,
-Version three
-insert photos
+# Prototyping MedConnect: A Compact and Efficient Pill Organizer for Seniors:
+## ANDRE, GIL PILL ORGANIZER & GAO, LUCY RELATIVE DEVICE
+MedConnect was created to provide seniors with an effective solution to manage their medication needs, while also providing peace of mind to their family members. Initially, we implemented bare conductive sensors to detect pressure on pill boxes, but we found that they were not accurate enough. We then tried using a 1kg load cell, but it proved to be difficult to measure milligrams precisely. Eventually, we decided to use copper foil to detect each daily pill box. Our original plan involved sliding pill boxes and displaying medication reminders on an LCD screen.
+
+During the development of the first printing, we made several iterations to improve its design and functionality. We received feedback about the initial size and material waste of the first printing, which prompted us to make adjustments to reduce the size of the box while still maintaining ergonomic and practical considerations. The second version of the box was successfully resized to fit comfortably in the hand and allowed for efficient storage of pills, while also being proportional to the copper foils and electrical wires. The third and final version addressed concerns about copper foil damage and the need for sufficient space for magnets to secure the small boxes. These modifications made the box more user-friendly, with improved circuit stability and a secure magnet system. The overall result is a compact and efficient pill organizer that is easy to use and troubleshoot.
+
+## Below are images showing the development process of MedConnect from its initial prototype to the final product:
+
+
+## Sketches: Drawing of the Pill Organizer
+![Drawing of the Pill Organizer](/Prototype to End result/Drawing pill organiser.png)
+## First Prototype - Bare Conductive Sensors
+![First Prototype - Bare Conductive Sensors](/Prototype to End result/First Prototype BARE CONDUCTIVE.png)
+
+
+## Second Prototype - Copper Foil
+## First 3D Printing Prototype
+![First 3D Printing Prototype](/Prototype to End result/First 3D printing prototype.png)
+
+## Second 3D Printing Prototype
+![Second 3D Printing Prototype](/Prototype to End result/Second 3D Printing.png)
+
+## The Platform for the Circuit
+![The Platform for the Circuit](/Prototype to End result/The Platform for the circuit.png)
+
+## End Result - 3D Printed Pill Organizer
+![End Result - 3D Printed Pill Organizer](/Prototype to End result/End result 3D Printing.png)
+
+
 ![Relative device](https://github.com/Gil-ADDA/MedConnect/blob/main/images/Relative%20device.jpeg)
 
 # Introduction: ANDRE
