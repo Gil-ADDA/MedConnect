@@ -46,7 +46,7 @@ During the development of the first printing, we made several iterations to impr
 
 ## Second Prototype - Copper Foil
 ## First 3D Printing Prototype
-![First 3D Printing Prototype](/Prototype to End result/First 3D printing prototype.png)
+![First 3D Printing Prototype]("/Prototype to End result/First 3D printing prototype.png")
 
 ## Second 3D Printing Prototype
 ! [Second 3D Printing Prototype](/Prototype to End result/Second 3D Printing.png)
