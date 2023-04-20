@@ -1,41 +1,20 @@
 # MedConnect
 
-<b>Stages of Assessment</b>
-
-Group project pitch - (there will be several unassessed but required crits through the module).
-Group Presentation Present the project to the rest of the class - 40% 
-Group GitHub + Report - 2000 words (+/- 10%) - 60% 
-Individual personal reflection - 500 words (+/- 10%) (unassessed but required)
-
-
-<b>Key Dates for 2022/2023</b>
-Final Presentations – **Monday 20th March**
-
-Group Report (2000 words) submission via Moodle – **Friday 21th April - 5pm**
-
-Individual report (500 words) submission via Moodle – **Friday 21th April - 5pm**
-
-
-<b>Group GitHub Repo + Report (2000 words) – 60%</b>
-The github and report will be assessed by the following criteria:
-
-The problem identified and the motivation for the product or service - 15%
-Documentation of the prototyping / design iterations - 20%
-The 'quality' of the product or service built - 15%
-The critical reflection on the product or service created - 10%
-
-# Second mid crit 
-we got a feadback that we will need to change the way the pill boxess will be detected by swits insted of the bare conductive casue then it possible to use 7 digital pins instead of using 5 Analog pins and split one Analog pin. 
-As well we have to add communication buttom to nudge the user to take is pills by the relative 
-moreover we dicide to add rail to the small boxes to make sure that the boxes are placed properly 
-
-# Introduction: ANDRE
+## Introduction
 
 The purpose of this project is to design and build a set of devices that solve various compounding problems faced by older generations - those being the consumption of prescribed medication in a timely manner, and also frequent isolation from loved ones.
 
 This project serves different purposes for each user. For the patient and their device, it serves as a central device to organize their medication, as well as a reminder to take their medication. For the relative or carer and their device, it provides the knowledge that your loved one or patient is taking their medication properly, or serves as a means to remind them to do so if they forget. For both groups, it provides comfort and connection, illustrating that your loved ones are there for you even when they're physically absent.
 
 The main features of this project are specific to each device. With their device, the patient has the ability to organize a week's worth of medication into daily boxes and, by the act of taking their medication, notify their relative of carer that they have done this. It also has the ability to receive notifications from the relative or carer device and use a buzzer to notify the patient if they have not taken their medication. The relative or carer device has the ability to recieve notifications from the patient device once medication has been taken, as well as remind the patient to take their medication through the push of a button.
+
+
+## Second Midterm Critique 
+The feedback our team recieved in our second midterm critique is as follows:
+- Change the way the pill boxess will be detected - turning them into the equivilant of a switch, this allowed our team to use a digital pin each for the 7 pill boxes instead of having to split anolog pins between 2 pill boxes in our previous design. 
+-  Add communication button to the relative device in order to nudge the user to take medication if they haven't, also lets the user know they're relative or carer is thinking baout them.
+- Add rails to the pill box and daily boxes so they fit together correctly.
+
 # Prototyping MedConnect: A Compact and Efficient Pill Organizer for Seniors:
 ## ANDRE, GIL PILL ORGANIZER & GAO, LUCY RELATIVE DEVICE
 MedConnect was created to provide seniors with an effective solution to manage their medication needs, while also providing peace of mind to their family members. Initially, we implemented bare conductive sensors to detect pressure on pill boxes, but we found that they were not accurate enough. We then tried using a 1kg load cell, but it proved to be difficult to measure milligrams precisely. Eventually, we decided to use copper foil to detect each daily pill box. Our original plan involved sliding pill boxes and displaying medication reminders on an LCD screen.
@@ -78,8 +57,6 @@ During the development of the first printing, we made several iterations to impr
 
 ## End Result - Relative Device
 ![Relative device](https://github.com/Gil-ADDA/MedConnect/blob/main/images/Relative%20device.jpeg)
-
-
 
 # Hardware and software components: (GAO, LUCY, GIL - please check the components are correct)
 A list of the hardware and software components used in the project, including microcontroller, sensors, and libraries.
