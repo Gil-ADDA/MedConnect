@@ -74,7 +74,7 @@ During the development of the first printing, we made several iterations to impr
 
 
 ## Laser cut design - Relative Device 
-
+![Laser cut design](https://github.com/Gil-ADDA/MedConnect/blob/main/images/laser%20cut%20design.png)
 
 ## End Result - Relative Device
 ![Relative device](https://github.com/Gil-ADDA/MedConnect/blob/main/images/Relative%20device.jpeg)
