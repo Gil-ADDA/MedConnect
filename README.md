@@ -71,7 +71,7 @@ During the development of the first printing, we made several iterations to impr
 ![End Result - 3D Printed Pill Organizer](/Prototype%20to%20End%20result/End%20result%203D%20Printing.png)
 
 ## Drawing of the Relative Device
-
+![Drawing of the relative device](https://github.com/Gil-ADDA/MedConnect/blob/main/images/First%20draft.png)
 
 ## Laser cut design - Relative Device 
 ![Laser cut design](https://github.com/Gil-ADDA/MedConnect/blob/main/images/laser%20cut%20design.png)
