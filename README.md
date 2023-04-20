@@ -110,7 +110,7 @@ Instructions on how to set up and configure the device, including any necessary 
 Patient Device
 - insert photos
 
-Relative Device 
+## Relative Device 
 ![Relative device model](https://github.com/Gil-ADDA/MedConnect/blob/main/images/Relative%20device%20model.png)
 
 # Usage: PILL ORGANIZER & RELATIVE DEVICE
