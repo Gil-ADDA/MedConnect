@@ -59,7 +59,9 @@ Below are images showing the development process of MedConnect from its initial 
 ## Hardware and Software Components
 A list of the hardware and software components used in the project, including microcontrollers, sensors, and libraries.
 
-*Pill Organizer Hardware*
+### Pill Organizer
+
+**Hardware**
 - Adafruit Feather Huzzah ESP8266
 - Piezo Buzzer 
 - Copper wire
@@ -69,13 +71,15 @@ A list of the hardware and software components used in the project, including mi
 - PLA filament
 - Acrylic sheet
 
-*Pill Organizer Software*
+**Software**
 - ezTime library
 - PubSubClient library
 - ArduinoJson library
 - ESP8266 Wi-Fi library
 
-*Relative Device Hardware*
+### Relative Device
+
+**Hardware**
 - Adafruit Feather Huzzah ESP8266
 - PLA filament
 - LCD screen
@@ -84,7 +88,7 @@ A list of the hardware and software components used in the project, including mi
 - Copper wire
 - Wooden materials
 
-*Relative Device Software*
+**Software**
 - ezTime library
 - PubSubClient library
 - ArduinoJson library
@@ -96,71 +100,63 @@ A list of the hardware and software components used in the project, including mi
 
 ## Design & 3D Models
 
-*Patient Device*
+### Patient Device
 ![medconnect model](https://user-images.githubusercontent.com/33913141/233387985-61384345-0943-4d70-8fae-fab121c7a6e4.png)
 
-*Relative Device*
+### Relative Device
 ![Relative device model](https://github.com/Gil-ADDA/MedConnect/blob/main/images/Relative%20device%20model.png)
 
 ## Usage: PILL ORGANIZER & RELATIVE DEVICE
 
- 
-## Getting Started
-To use the Medconnect pill organizer, follow these steps:
-
+### Pill Organizer
 Plug in the smart medicine box to a power source using the provided cable.
 Fill the compartments with the necessary medication for each day of the week.
 The smart medicine box will keep track of the medication schedule and send notifications to the relative device whenever pills are taken or missed.
 Receiving Notifications and Sending Reminders
 The Medconnect pill organizer is designed to send notifications to the relative device whenever the senior user takes their pills or if they miss their medication. If the senior user misses their medication, the relative device can send a notification to remind them to take their pills. Additionally, the relative device can send a notification to the smart medicine box by pressing a button on the device, activating the buzzer on the smart medicine box to remind the senior user to take their pills.
 
-## The 3D Doctor Model
+### Relative Device
 The 3D doctor model on the relative device is designed to provide emotional engagement and accountability for the senior user's medication adherence. By default, the doctor has a sad face, but when the senior user takes their pills, the doctor's face turns to a happy expression.There is an lcd screen that can be used to show how much unused medicine is left in the box. Every midnight, the doctor's face returns to the default sad face.
 
 ## Specific Features and Functions
 The Medconnect pill organizer has several specific features and functions that you may find useful:
 
-Medication Schedule: The smart medicine box is divided into different compartments for each day of the week, but there are no specific times for taking the medication.
-Notification and Alerts: The smart medicine box is designed to send notifications to the relative device whenever the senior user takes their pills or if they miss their medication. The relative device can also send a notification to remind the senior user to take their pills by activating the buzzer on the smart medicine box.
-Emotional Engagement: The 3D doctor model provides emotional engagement and accountability, strengthening the bond between patients and their families. By default, the doctor has a sad face, but when the senior user takes their pills, the doctor's face turns to a happy expression. Every midnight, the doctor's face returns to the default sad face.
-Easy to Use: The Medconnect pill organizer is designed to be easy to use, with clearly labeled compartments and a simple interface.
-Compact Size: The smart medicine box is compact and can be easily stored on a shelf or countertop.
+- Medication Schedule: The smart medicine box is divided into different compartments for each day of the week, but there are no specific times for taking the medication.
+- Notification and Alerts: The smart medicine box is designed to send notifications to the relative device whenever the senior user takes their pills or if they miss their medication. The relative device can also send a notification to remind the senior user to take their pills by activating the buzzer on the smart medicine box.
+- Emotional Engagement: The 3D doctor model provides emotional engagement and accountability, strengthening the bond between patients and their families. By default, the doctor has a sad face, but when the senior user takes their pills, the doctor's face turns to a happy expression. Every midnight, the doctor's face returns to the default sad face.
+- Easy to Use: The Medconnect pill organizer is designed to be easy to use, with clearly labeled compartments and a simple interface.
+- Compact Size: The smart medicine box is compact and can be easily stored on a shelf or countertop.
 
-
-
-# Troubleshooting: ANDRE PATIENT DEVICE & GAO RELATIVE DEVICE
+## Troubleshooting
 Information on how to troubleshoot common issues or errors that may occur while using the device.
- Patient device 
+
+ ### Pill Orgnanizer
  - One issue someone may face with with the pill organizer is the detection of an open circuit even when a daily box has been placed back into it's slot. This is is due to insufficient contact between the box and the main body of the device. To remedy this, simple adjust the box so it sits flush against its base and give it a slight push down into its correct position.
  
- Relative Device
- - The problem someone may face is that after pressing a button, that device does not capture the moment of the button press, so it may result in no feedback from the corresponding device even though the user pressed the button. To solve this problem, try pressing the button a few more times to be able to ensure that the message is definitely received.
+ ### Relative Device
+ - A problem someone may face is that after pressing a button, that device does not capture the moment of the button press, so it may result in no feedback from the corresponding device even though the user pressed the button. To solve this problem, try pressing the button a few more times to be able to ensure that the message is definitely received.
 
-# Future work: GIL PILL ORGANIZER & GAO RELATIVE DEVICE
-Relative device 
+## Future work
+
+### Pill Organiser
+In the future work, our team would like to add a temperature and humidity sensor to the pill organiser. This addition will help to ensure that the patient is keeping their medication in an ideal environment to maintain its effectiveness. Temperature and humidity information will be displayed on an attached LCD screen for convenient viewing. Our team would also like to include more inclusive means of reminding patients to take their medicine, including a flashing light or possibly push notifications to a patient’s smart device.
+
+### Relative Device
 In the future, the use of messaging could be used to enable more to be passed between the two devices than just the alert. More contents could also be added to the LCD display.
 
 Currently, most parts of the family's device are made up of 3D printed materials due to technical limitations, which also leads to high manufacturing costs and the inability to recycle. In the future, recyclable materials could be used instead of 3D printed materials, which would reduce costs and be environmentally friendly at the same time.
 
-Pill organiser 
-In the future work, our team would like to add a temperature and humidity sensor to the pill organiser. This addition will help to ensure that the patient is keeping their medication in an ideal environment to maintain its effectiveness. Temperature and humidity information will be displayed on an attached LCD screen for convenient viewing. Our team would also like to include more inclusive means of reminding patients to take their medicine, including a flashing light or possibly push notifications to a patient’s smart device.
-
-
-# Contributors: LUCY, GAO, GIL ADD NAMES FOLLOWED BY WHAT YOU WORKED ON
-A list of the people who have contributed to the project, including their roles and responsibilities.
-- André Bourgeois: Responsible for designing the 3D model for the Pill Ordganizer and writing the code for pushing data to MQTT in JSON format.
+## Contributors:
 
 | Product/Responsibility | Members             | Activities                                                 |
 |------------------------|---------------------|------------------------------------------------------------|
 | Pill organiser          | Gil Adda, André Bourgeois | Prototyping, writing the code for MQTT, buzzer, 7 input pins, design the pill organiser 3D model (fusion), 3D printing (Prusa and Ultimaker), design the circuit and soldering |
 | Relative device         | Shiqu Gao, Qishu Qian   | Writing the code, design 3D model (fusion), 3D printing (Prusa and Ultimaker), laser cutting (fusion), design the circuit and soldering |
 
-
-
-# License: ANDRE
+## License
 This project is licensed under the MIT License.
 
-# References: GAO, LUCY, GIL, ADD ANY REFERENCES
+## References:
 A list of any sources or references used in the project.(harvard referneces)
 
 Medication reminder GlowCap goes direct-to-consumer (2009). Available at: https://www.mobihealthnews.com/3888/medication-reminder-glowcap-goes-direct-to-consumer.
