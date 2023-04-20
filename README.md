@@ -9,7 +9,8 @@ This project serves different purposes for each user. For the patient and their 
 The main features of this project are specific to each device. With their device, the patient has the ability to organize a week's worth of medication into daily boxes and, by the act of taking their medication, notify their relative of carer that they have done this. It also has the ability to receive notifications from the relative or carer device and use a buzzer to notify the patient if they have not taken their medication. The relative or carer device has the ability to recieve notifications from the patient device once medication has been taken, as well as remind the patient to take their medication through the push of a button.
 
 
-## Second Midterm Critique 
+## Second Midterm Critique
+
 The feedback our team recieved in our second midterm critique is as follows:
 - Change the way the pill boxess will be detected - turning them into the equivilant of a switch, this allowed our team to use a digital pin each for the 7 pill boxes instead of having to split anolog pins between 2 pill boxes in our previous design. 
 -  Add communication button to the relative device in order to nudge the user to take medication if they haven't, also lets the user know they're relative or carer is thinking baout them.
@@ -106,7 +107,7 @@ A list of the hardware and software components used in the project, including mi
 ### Relative Device
 ![Relative device model](https://github.com/Gil-ADDA/MedConnect/blob/main/images/Relative%20device%20model.png)
 
-## Usage: PILL ORGANIZER & RELATIVE DEVICE
+## Usage:
 
 ### Pill Organizer
 Plug in the smart medicine box to a power source using the provided cable.
